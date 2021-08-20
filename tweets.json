@@ -1,1 +1,41 @@
-[]
+[
+  {
+    "tweet_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "content": "This is the first tweet in the history",
+    "created_at": "2021-08-20 19:10:35.142788",
+    "updated_at": "2021-08-20 22:10:51.838000+00:00",
+    "by": {
+      "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "email": "facundo@example.com",
+      "first_name": "Facundo",
+      "last_name": "Garc\u00eda Martoni",
+      "birth_date": "2021-08-20"
+    }
+  },
+  {
+    "tweet_id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+    "content": "Hola, este es mi primer tweet",
+    "created_at": "2021-08-20 19:10:35.142788",
+    "updated_at": "2021-08-20 22:10:51.838000+00:00",
+    "by": {
+      "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "email": "miguel@example.com",
+      "first_name": "Miguel",
+      "last_name": "Garc\u00eda Martoni",
+      "birth_date": "2021-08-20"
+    }
+  },
+  {
+    "tweet_id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+    "content": "Me voy de tweet",
+    "created_at": "2021-08-20 19:10:35.142788",
+    "updated_at": "2021-08-20 22:10:51.838000+00:00",
+    "by": {
+      "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "email": "rocio@example.com",
+      "first_name": "Rocio",
+      "last_name": "Garc\u00eda Martoni",
+      "birth_date": "2021-08-20"
+    }
+  }
+]
